@@ -1,8 +1,8 @@
 <?php
-	$host= 'localhost';
-	$username='root';
-	$password='';
-	$database='bloodbank';
+	$host= 's54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+	$username='ikfa0tq33bib7lmy';
+	$password='jnxk5swddha9bjnb';
+	$database='mede9ezx2tyg8t5e';
 
 	$conn= mysqli_connect($host, $username, $password, $database);
 
